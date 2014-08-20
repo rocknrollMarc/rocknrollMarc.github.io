@@ -4,7 +4,7 @@
   <title><![CDATA[Category: vim | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/vim/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-20T13:02:00+02:00</updated>
+  <updated>2014-08-20T13:17:13+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Pope]]></title>
+    <link href="http://rocknrollmarc.github.io/blog/2014/08/20/the-pope/"/>
+    <updated>2014-08-20T13:12:01+02:00</updated>
+    <id>http://rocknrollmarc.github.io/blog/2014/08/20/the-pope</id>
+    <content type="html"><![CDATA[<p>Yes this is the Pope &hellip;..Tim Pope</p>
+
+<p>He must be the most influential Developer I know, or I dont know.</p>
+
+<p>This is a realy nice Tutorial on his Famous Vim Plugins.</p>
+
+<p>I think everyone who uses Vim has one or the other Plugins from the Pope&hellip;..</p>
+
+<p><video width='' height='' preload='none' controls poster=''><source src='https://www.youtube.com/watch?v=MGmIJyTf8pg">https://www.youtube.com/watch?v=MGmIJyTf8pg</a>' ></video></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vim rails]]></title>
@@ -35,9 +52,9 @@ I use the YADR framework for every new machiene I have to setup.</p>
 </ul>
 
 
-<p>And here is a nice Video from my favorite Company Thoughtworks about using Rails with Vim</p>
+<p>And here is a nice Video tutorial on how to use Vim with Rails</p>
 
-<p><video width='' height='' preload='none' controls poster=''><source src='https://upcase.com/vim-for-rails-developers">https://upcase.com/vim-for-rails-developers</a>' ></video></p>
+<p><video width='' height='' preload='none' controls poster=''><source src='https://www.youtube.com/watch?v=hNW4gz7gwuY">https://www.youtube.com/watch?v=hNW4gz7gwuY</a>' ></video></p>
 ]]></content>
   </entry>
   
