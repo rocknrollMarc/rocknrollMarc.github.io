@@ -4,7 +4,7 @@
   <title><![CDATA[Category: testing | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-20T18:00:23+02:00</updated>
+  <updated>2014-08-20T18:08:02+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -37,7 +37,7 @@ I use the YADR framework for every new machiene I have to setup.</p>
 
 <p>And here is a nice Video tutorial on how to use Vim with Rails</p>
 
-<p><video width='640' height='320' preload='none' controls poster=''><source src='https://www.youtube.com/watch?v=hNW4gz7gwuY">https://www.youtube.com/watch?v=hNW4gz7gwuY</a>' ></video></p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/hNW4gz7gwuY" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
