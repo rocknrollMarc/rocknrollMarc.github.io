@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: testing | RocknrollMarcs Coding Adventures]]></title>
+  <link href="http://rocknrollmarc.github.io/blog/categories/testing/atom.xml" rel="self"/>
+  <link href="http://rocknrollmarc.github.io/"/>
+  <updated>2014-08-20T13:02:00+02:00</updated>
+  <id>http://rocknrollmarc.github.io/</id>
+  <author>
+    <name><![CDATA[Marc Bluemner]]></name>
+    <email><![CDATA[marc.bluemner@gamil.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Vim rails]]></title>
+    <link href="http://rocknrollmarc.github.io/blog/2014/08/20/vim-rails/"/>
+    <updated>2014-08-20T12:27:44+02:00</updated>
+    <id>http://rocknrollmarc.github.io/blog/2014/08/20/vim-rails</id>
+    <content type="html"><![CDATA[<p>If you are like me then there is nothing nicer then Living in the Terminal</p>
+
+<p>The hook is you actualy have to do something to make this editor make your life easyer
+For me, I never felt at home in any IDE, maybe Webstorm but not even that :)</p>
+
+<p>It does take a while until you have wet up your perfect Vim environment.
+I use the YADR framework for every new machiene I have to setup.</p>
+
+<p>Here is a Link to YADR it has:</p>
+
+<ul>
+<li>ZSH</li>
+<li>VIM</li>
+<li>Solarized</li>
+</ul>
+
+
+<p>And here is a nice Video from my favorite Company Thoughtworks about using Rails with Vim</p>
+
+<p><video width='' height='' preload='none' controls poster=''><source src='https://upcase.com/vim-for-rails-developers">https://upcase.com/vim-for-rails-developers</a>' ></video></p>
+]]></content>
+  </entry>
+  
+</feed>
