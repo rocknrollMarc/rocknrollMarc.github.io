@@ -4,7 +4,7 @@
   <title><![CDATA[RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-23T11:38:55+02:00</updated>
+  <updated>2014-08-23T11:40:43+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -18,7 +18,7 @@
     <link href="http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card/"/>
     <updated>2014-08-23T11:37:17+02:00</updated>
     <id>http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card</id>
-    <content type="html"><![CDATA[<p>{ img <a href="https://www.evernote.com/shard/s257/sh/b4b5b183-e464-46cb-95b7-dd6c9867484e/a109b935f23b919fe193ff275ec86111">https://www.evernote.com/shard/s257/sh/b4b5b183-e464-46cb-95b7-dd6c9867484e/a109b935f23b919fe193ff275ec86111</a> %}</p>
+    <content type="html"><![CDATA[<p><img src="https://www.evernote.com/shard/s257/sh/b4b5b183-e464-46cb-95b7-dd6c9867484e/a109b935f23b919fe193ff275ec86111" title="" ></p>
 ]]></content>
   </entry>
   
