@@ -4,7 +4,7 @@
   <title><![CDATA[RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-23T12:22:39+02:00</updated>
+  <updated>2014-08-23T12:42:25+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -14,25 +14,77 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Open source Card]]></title>
-    <link href="http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card/"/>
-    <updated>2014-08-23T11:37:17+02:00</updated>
-    <id>http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card</id>
-    <content type="html"><![CDATA[<p>Open Source Card from Gitub</p>
-
-<p>Great great way to share your Open source doings with people :)
-And a fun thing to &hellip;</p>
-
-<p><img src="http://rocknrollmarc.github.iohttps://osrc.dfm.io/rocknrollmarc/" alt="MY Open Source Card" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[The GodFather]]></title>
     <link href="http://rocknrollmarc.github.io/blog/2014/08/23/the-godfather/"/>
     <updated>2014-08-23T11:20:11+02:00</updated>
     <id>http://rocknrollmarc.github.io/blog/2014/08/23/the-godfather</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Padrino is the new Rails on the Block !!!!!</p>
+
+<p><img src="https://raw.githubusercontent.com/wikimatze/padrinobook/master/images/logo.png"></p>
+
+<p>Its for apps that dont need as much overhead as for Rails and more overhead then for a Sinatra app</p>
+
+<p>Its a very Modular approach to making web apps and the best thing a very nice admin pannel which
+you can use for making protected CRUD interfaces..</p>
+
+<p>The Generators are very similar to the RoR ones but better. You have a better choice of ORMs for example
+&ndash; mongomatic
+&ndash; mongoid
+&ndash; activerecord
+&ndash; minirecord
+&ndash; datamapper
+&ndash; couchrest
+&ndash; mongomapper
+&ndash; ohm
+&ndash; ripple
+&ndash; sequel
+&ndash; dynamoid</p>
+
+<p>Test Frameworks:
+&ndash; rspec
+&ndash; steak
+&ndash; bacon
+&ndash; cucumber
+&ndash; riot
+&ndash; minitest</p>
+
+<p>Renderers:
+&ndash; erb
+&ndash; haml
+&ndash; slim
+&ndash; liquid
+&ndash; erubis</p>
+
+<p>script:
+&ndash; prototype
+&ndash; jquery
+&ndash; rightjs
+&ndash; mootools
+&ndash; extcore
+&ndash; dojo</p>
+
+<p>stylsheet:
+&ndash; compass
+&ndash; sass
+&ndash; scss
+&ndash; less</p>
+
+<p>Examples:</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">padrino g project your_project -d mongoid -b</code></pre></div>
+
+
+
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">padrino g project your_project -t riot -m rr</code></pre></div>
+
+
+
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash">padrino g project your_project -d sequel -a mysql</code></pre></div>
+
+
+
 ]]></content>
   </entry>
   

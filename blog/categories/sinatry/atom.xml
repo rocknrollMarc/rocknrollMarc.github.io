@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: rails | RocknrollMarcs Coding Adventures]]></title>
-  <link href="http://rocknrollmarc.github.io/blog/categories/rails/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sinatry | RocknrollMarcs Coding Adventures]]></title>
+  <link href="http://rocknrollmarc.github.io/blog/categories/sinatry/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
   <updated>2014-08-23T12:42:25+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
@@ -75,51 +75,6 @@ you can use for making protected CRUD interfaces..</p>
 <p><div class="highlight"><pre><code class="language-bash" data-lang="bash">padrino g project your_project -t riot -m rr</code></pre></div></p>
 
 <p><div class="highlight"><pre><code class="language-bash" data-lang="bash">padrino g project your_project -d sequel -a mysql</code></pre></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Pope]]></title>
-    <link href="http://rocknrollmarc.github.io/blog/2014/08/20/the-pope/"/>
-    <updated>2014-08-20T13:12:01+02:00</updated>
-    <id>http://rocknrollmarc.github.io/blog/2014/08/20/the-pope</id>
-    <content type="html"><![CDATA[<p>Yes this is the Pope &hellip;..Tim Pope</p>
-
-<p>He must be the most influential Developer I know, or I dont know.</p>
-
-<p>This is a realy nice Tutorial on his Famous Vim Plugins.</p>
-
-<p>I think everyone who uses Vim has one or the other Plugins from the Pope&hellip;..</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/MGmIJyTf8pg" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vim rails]]></title>
-    <link href="http://rocknrollmarc.github.io/blog/2014/08/20/vim-rails/"/>
-    <updated>2014-08-20T12:27:44+02:00</updated>
-    <id>http://rocknrollmarc.github.io/blog/2014/08/20/vim-rails</id>
-    <content type="html"><![CDATA[<p>If you are like me then there is nothing nicer then Living in the Terminal</p>
-
-<p>The hook is you actualy have to do something to make this editor make your life easyer
-For me, I never felt at home in any IDE, maybe Webstorm but not even that :)</p>
-
-<p>It does take a while until you have wet up your perfect Vim environment.
-I use the YADR framework for every new machiene I have to setup.</p>
-
-<p>Here is a Link to YADR it has:</p>
-
-<ul>
-<li>ZSH</li>
-<li>VIM</li>
-<li>Solarized</li>
-</ul>
-
-
-<p>And here is a nice Video tutorial on how to use Vim with Rails</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/hNW4gz7gwuY" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
