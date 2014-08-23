@@ -4,7 +4,7 @@
   <title><![CDATA[RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-23T11:49:16+02:00</updated>
+  <updated>2014-08-23T12:14:17+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -18,7 +18,12 @@
     <link href="http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card/"/>
     <updated>2014-08-23T11:37:17+02:00</updated>
     <id>http://rocknrollmarc.github.io/blog/2014/08/23/open-source-card</id>
-    <content type="html"><![CDATA[<p>  File /Users/marc/workspace/blog/octopress/source/<a href="https://osrc.dfm.io/rocknrollmarc/">https://osrc.dfm.io/rocknrollmarc/</a> could not be found</p>
+    <content type="html"><![CDATA[<p>Open Source Card from Gitub</p>
+
+<p>Great great way to share your Open source doings with people :)
+And a fun thing to &hellip;</p>
+
+<p><img src="http://rocknrollmarc.github.iohttps://osrc.dfm.io/rocknrollmarc/" alt="MY Open Source Card" /></p>
 ]]></content>
   </entry>
   
