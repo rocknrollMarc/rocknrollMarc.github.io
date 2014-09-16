@@ -9,7 +9,8 @@
   <meta name="author" content="Marc Bluemner">
 
   
-  <meta name="description" content="Padrino is the new Rails on the Block !!!!! Its for apps that dont need as much overhead as for Rails and more overhead then for a Sinatra app Its a &hellip;">
+  <meta name="description" content="Volt is a new Ruby webframework which reminds me of the Play framework in scala Some of the things it has to offer: &ndash; Sockjs Layer
+&ndash; Vert &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -65,6 +66,99 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/09/16/volt/">Volt</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-09-16T10:07:16+02:00" pubdate data-updated="true"></time>
+        
+         | <a href="/blog/2014/09/16/volt/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Volt</p>
+
+<p>is a new Ruby webframework which reminds me of the Play framework in scala</p>
+
+<p>Some of the things it has to offer:</p>
+
+<p>&ndash; Sockjs Layer
+&ndash; Vert.x integration
+&ndash; SProckets replacement
+&ndash; Opal IRB
+&ndash; Volt COntributions / Reactive system
+&ndash; Ruby Motion support</p>
+
+<p>Volt is a ruby web framework where your ruby code runs on both the server and the client (via opal.) The DOM automatically update as the user interacts with the page. Page state can be stored in the URL, if the user hits a URL directly, the HTML will first be rendered on the server for faster load times and easier indexing by search engines.</p>
+
+<p>Instead of syncing data between the client and server via HTTP, volt uses a persistent connection between the client and server. When data updated on one client, it is updated in the database and any other listening clients. (With almost no setup code needed)</p>
+
+<p>Pages HTML is written in a handlebars like template language. Volt uses data flow/reactive programming to automatically and intelligently propagate changes to the DOM (or anything other code wanting to know when a value updates) When something in the DOM changes, Volt intelligently updates only the nodes that need to be changed.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/08/30/dci/">DCI</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-08-30T10:06:01+02:00" pubdate data-updated="true"></time>
+        
+         | <a href="/blog/2014/08/30/dci/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content">
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -416,6 +510,14 @@ You&rsquo;ve finished this book and have decided to continue with programming. M
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/16/volt/">volt</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/08/30/dci/">DCI</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/08/23/the-godfather/">The GodFather</a>
       </li>
     
@@ -425,14 +527,6 @@ You&rsquo;ve finished this book and have decided to continue with programming. M
     
       <li class="post">
         <a href="/blog/2014/08/20/the-pope/">The Pope</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/08/20/vim-rails/">Vim rails</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/08/20/advice-from-an-old-programmer/">Advice from an old Programmer</a>
       </li>
     
   </ul>

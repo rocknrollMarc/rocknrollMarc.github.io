@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-08-23T12:42:25+02:00</updated>
+  <updated>2014-09-16T10:12:36+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[volt]]></title>
+    <link href="http://rocknrollmarc.github.io/blog/2014/09/16/volt/"/>
+    <updated>2014-09-16T10:07:16+02:00</updated>
+    <id>http://rocknrollmarc.github.io/blog/2014/09/16/volt</id>
+    <content type="html"><![CDATA[<p>Volt</p>
+
+<p>is a new Ruby webframework which reminds me of the Play framework in scala</p>
+
+<p>Some of the things it has to offer:</p>
+
+<p>&ndash; Sockjs Layer
+&ndash; Vert.x integration
+&ndash; SProckets replacement
+&ndash; Opal IRB
+&ndash; Volt COntributions / Reactive system
+&ndash; Ruby Motion support</p>
+
+<p>Volt is a ruby web framework where your ruby code runs on both the server and the client (via opal.) The DOM automatically update as the user interacts with the page. Page state can be stored in the URL, if the user hits a URL directly, the HTML will first be rendered on the server for faster load times and easier indexing by search engines.</p>
+
+<p>Instead of syncing data between the client and server via HTTP, volt uses a persistent connection between the client and server. When data updated on one client, it is updated in the database and any other listening clients. (With almost no setup code needed)</p>
+
+<p>Pages HTML is written in a handlebars like template language. Volt uses data flow/reactive programming to automatically and intelligently propagate changes to the DOM (or anything other code wanting to know when a value updates) When something in the DOM changes, Volt intelligently updates only the nodes that need to be changed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The GodFather]]></title>
