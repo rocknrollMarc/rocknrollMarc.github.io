@@ -4,7 +4,7 @@
   <title><![CDATA[Category: webframeworks | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/webframeworks/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-09-16T11:57:01+02:00</updated>
+  <updated>2014-09-16T12:38:40+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -43,6 +43,8 @@
 
 <p>You dont need to use javascript front end frmeoworks like AngularJS its got it all included and the best&hellip;..
 it crosscompiles automatically and reloads the Browser in change to&hellip;.A bliss to work with.</p>
+
+<p>Here is the finnished App on Heroku <a href="http://todos-volt.herokuapp.com">Heroku link</a>.</p>
 ]]></content>
   </entry>
   
