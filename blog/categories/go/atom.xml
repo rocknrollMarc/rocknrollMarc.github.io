@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: go | RocknrollMarcs Coding Adventures]]></title>
+  <link href="http://rocknrollmarc.github.io/blog/categories/go/atom.xml" rel="self"/>
+  <link href="http://rocknrollmarc.github.io/"/>
+  <updated>2014-09-17T06:29:00+02:00</updated>
+  <id>http://rocknrollmarc.github.io/</id>
+  <author>
+    <name><![CDATA[Marc Bluemner]]></name>
+    <email><![CDATA[marc.bluemner@gamil.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Docker CI]]></title>
+    <link href="http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/"/>
+    <updated>2014-09-17T06:16:06+02:00</updated>
+    <id>http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci</id>
+    <content type="html"><![CDATA[<p>Docker as a continious build server&hellip;..</p>
+
+<p>I was playing around with docker the other day and was quite surprised how easy
+it is to get an Automated Build running.</p>
+
+<p>All you have to do is:</p>
+
+<ol>
+<li>Create an account on Docker hub</li>
+<li>Create a github account.</li>
+</ol>
+
+
+<p>There are a few ways to do this but I set it up this way:</p>
+
+<ol>
+<li>GO into Docker hub and Add a Repository (Automated build)</li>
+<li>You can then choose the repository you want to set up for the build.</li>
+</ol>
+
+
+<p>If all goes well then &ldquo;Rocknroll dooooood&rdquo;</p>
+
+<p>After every commit to the github Branch you configured Docker tryes to build an image (snapshot)
+you can now docker pull your image&hellip;.Great&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>

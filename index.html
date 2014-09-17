@@ -9,8 +9,8 @@
   <meta name="author" content="Marc Bluemner">
 
   
-  <meta name="description" content="Volt is a new Ruby webframework which reminds me of the Play framework in scala Some of the things it has to offer: &ndash; Sockjs Layer
-&ndash; Vert &hellip;">
+  <meta name="description" content="Docker as a continious build server&hellip;.. I was playing around with docker the other day and was quite surprised how easy
+it is to get an &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -66,6 +66,68 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/09/17/docker-ci/">Docker CI</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-09-17T06:16:06+02:00" pubdate data-updated="true"></time>
+        
+         | <a href="/blog/2014/09/17/docker-ci/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Docker as a continious build server&hellip;..</p>
+
+<p>I was playing around with docker the other day and was quite surprised how easy
+it is to get an Automated Build running.</p>
+
+<p>All you have to do is:</p>
+
+<ol>
+<li>Create an account on Docker hub</li>
+<li>Create a github account.</li>
+</ol>
+
+
+<p>There are a few ways to do this but I set it up this way:</p>
+
+<ol>
+<li>GO into Docker hub and Add a Repository (Automated build)</li>
+<li>You can then choose the repository you want to set up for the build.</li>
+</ol>
+
+
+<p>If all goes well then &ldquo;Rocknroll dooooood&rdquo;</p>
+
+<p>After every commit to the github Branch you configured Docker tryes to build an image (snapshot)
+you can now docker pull your image&hellip;.Great&hellip;</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -520,6 +582,10 @@ You&rsquo;ve finished this book and have decided to continue with programming. M
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/17/docker-ci/">Docker CI</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/09/16/volt/">volt</a>
       </li>
     
@@ -533,10 +599,6 @@ You&rsquo;ve finished this book and have decided to continue with programming. M
     
       <li class="post">
         <a href="/blog/2014/08/21/cuke-or-puke/">Cuke or Puke</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/08/20/the-pope/">The Pope</a>
       </li>
     
   </ul>

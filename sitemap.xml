@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/</loc>
+    <lastmod>2014-09-17T06:16:06+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://rocknrollmarc.github.io/blog/2014/09/16/volt/</loc>
     <lastmod>2014-09-16T10:07:16+02:00</lastmod>
     <priority>0.8</priority>
@@ -47,21 +53,21 @@
   
   <url>
     <loc>http://rocknrollmarc.github.io/blog/archives/</loc>
-    <lastmod>2014-09-16T12:38:40+02:00</lastmod>
+    <lastmod>2014-09-17T06:29:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://rocknrollmarc.github.io/</loc>
-    <lastmod>2014-09-16T12:38:40+02:00</lastmod>
+    <lastmod>2014-09-17T06:29:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://rocknrollmarc.github.io/open-source-card/</loc>
-    <lastmod>2014-09-16T12:38:40+02:00</lastmod>
+    <lastmod>2014-09-17T06:29:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
