@@ -4,7 +4,7 @@
   <title><![CDATA[Category: vm | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/vm/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-09-17T06:54:18+02:00</updated>
+  <updated>2014-09-17T06:56:34+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -41,7 +41,7 @@ it is to get an Automated Build running.</p>
 </ul>
 
 
-<p><img src="[images/docker2.png]"></p>
+<p><img src="[image/docker2.png]"></p>
 
 <p>If all goes well then &ldquo;Rocknroll dooooood&rdquo;</p>
 
