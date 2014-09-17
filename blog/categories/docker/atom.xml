@@ -4,7 +4,7 @@
   <title><![CDATA[Category: docker | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/docker/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-09-17T06:47:35+02:00</updated>
+  <updated>2014-09-17T06:48:58+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -31,7 +31,7 @@ it is to get an Automated Build running.</p>
 </ul>
 
 
-<p><img src="[/sources/images/docker1.png]"></p>
+<p><img src="[sources/images/docker1.png]"></p>
 
 <p>There are a few ways to do this but I set it up this way:</p>
 
@@ -41,7 +41,7 @@ it is to get an Automated Build running.</p>
 </ul>
 
 
-<p><img src="[/sources/images/docker2.png]"></p>
+<p><img src="[sources/images/docker2.png]"></p>
 
 <p>If all goes well then &ldquo;Rocknroll dooooood&rdquo;</p>
 
