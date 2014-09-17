@@ -4,7 +4,7 @@
   <title><![CDATA[Category: continious_integration | RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/blog/categories/continious-integration/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-09-17T06:29:00+02:00</updated>
+  <updated>2014-09-17T06:38:37+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -25,19 +25,23 @@ it is to get an Automated Build running.</p>
 
 <p>All you have to do is:</p>
 
-<ol>
+<ul>
 <li>Create an account on Docker hub</li>
 <li>Create a github account.</li>
-</ol>
+</ul>
 
+
+<p>Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | "title text" ["alt text"]] %}</p>
 
 <p>There are a few ways to do this but I set it up this way:</p>
 
-<ol>
+<ul>
 <li>GO into Docker hub and Add a Repository (Automated build)</li>
 <li>You can then choose the repository you want to set up for the build.</li>
-</ol>
+</ul>
 
+
+<p>Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | "title text" ["alt text"]] %}</p>
 
 <p>If all goes well then &ldquo;Rocknroll dooooood&rdquo;</p>
 
