@@ -4,7 +4,7 @@
   <title><![CDATA[RocknrollMarcs Coding Adventures]]></title>
   <link href="http://rocknrollmarc.github.io/atom.xml" rel="self"/>
   <link href="http://rocknrollmarc.github.io/"/>
-  <updated>2014-09-17T06:59:36+02:00</updated>
+  <updated>2014-10-23T19:28:26+02:00</updated>
   <id>http://rocknrollmarc.github.io/</id>
   <author>
     <name><![CDATA[Marc Bluemner]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[angular-rails]]></title>
+    <link href="http://rocknrollmarc.github.io/blog/2014/09/22/angular-rails/"/>
+    <updated>2014-09-22T06:15:17+02:00</updated>
+    <id>http://rocknrollmarc.github.io/blog/2014/09/22/angular-rails</id>
+    <content type="html"><![CDATA[<p>Angularjs with Ruby on Rails&hellip;..</p>
+
+<p>Hey Muchachos!!!!.</p>
+
+<p>Yes I know there is 10 and more ways to set up Angularjs with rails and to be honest,
+at first I though, these frameworks are just not meant to be together but then on second thought
+There are a few nice and easy ways to use this fantastic HTML evolutuin.</p>
+
+<ol>
+<li>Gem (angular-rails)</li>
+<li>Bower-rails</li>
+<li>Good old, by hand</li>
+</ol>
+
+
+<p>These are just a few ones Im sure. I find using these is the easyest und not as confusing
+especialy for begginers.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Docker CI]]></title>

@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://rocknrollmarc.github.io/blog/2014/09/22/angular-rails/</loc>
+    <lastmod>2014-09-22T06:15:17+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/</loc>
     <lastmod>2014-09-17T06:16:06+02:00</lastmod>
     <priority>0.8</priority>
@@ -53,21 +59,21 @@
   
   <url>
     <loc>http://rocknrollmarc.github.io/blog/archives/</loc>
-    <lastmod>2014-09-17T06:59:36+02:00</lastmod>
+    <lastmod>2014-10-23T19:28:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://rocknrollmarc.github.io/</loc>
-    <lastmod>2014-09-17T06:59:36+02:00</lastmod>
+    <lastmod>2014-10-23T19:28:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://rocknrollmarc.github.io/open-source-card/</loc>
-    <lastmod>2014-09-17T06:59:36+02:00</lastmod>
+    <lastmod>2014-10-23T19:28:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

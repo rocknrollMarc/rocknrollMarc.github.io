@@ -32,6 +32,22 @@ it is to get an &hellip;">
 
   
 
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-56035770-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+
+
 </head>
 
 <body   >
@@ -159,7 +175,7 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/" data-via="BLUEMNER" data-counturl="http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/" data-via="bluemner" data-counturl="http://rocknrollmarc.github.io/blog/2014/09/17/docker-ci/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -174,6 +190,8 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
       
         <a class="basic-alignment left" href="/blog/2014/09/16/volt/" title="Previous Post: volt">&laquo; volt</a>
       
+      
+        <a class="basic-alignment right" href="/blog/2014/09/22/angular-rails/" title="Next Post: angular-rails">angular-rails &raquo;</a>
       
     </p>
   </footer>
@@ -194,6 +212,10 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/22/angular-rails/">angular-rails</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/09/17/docker-ci/">Docker CI</a>
       </li>
     
@@ -207,10 +229,6 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
     
       <li class="post">
         <a href="/blog/2014/08/23/the-godfather/">The GodFather</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/08/21/cuke-or-puke/">Cuke or Puke</a>
       </li>
     
   </ul>
@@ -254,7 +272,6 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
   <p><a href="http://delicious.com/rocknrollmarc">My Delicious Bookmarks &raquo;</a></p>
 </section>
 
-
 <section class="googleplus">
   <h1>
     <a href="https://plus.google.com/marc.bluemner@gmail.com?rel=author">
@@ -264,6 +281,23 @@ you can now docker pull your image&hellip;.Great&hellip;</p>
   </h1>
 </section>
 
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("bluemner", , );
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <p>Follow <a href="http://twitter.com/bluemner">@bluemner</a></p>
+  
+</section>
 
 
   
